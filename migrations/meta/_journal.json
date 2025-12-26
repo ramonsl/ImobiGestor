@@ -15,6 +15,41 @@
       "when": 1766690771229,
       "tag": "0001_lowly_shadow_king",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1766693760413,
+      "tag": "0002_regular_glorian",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1766695211845,
+      "tag": "0003_tough_tyrannus",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1766699751468,
+      "tag": "0004_strange_jubilee",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1766703958076,
+      "tag": "0005_rare_miracleman",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1766721306839,
+      "tag": "0006_serious_domino",
+      "breakpoints": true
     }
   ]
 }

@@ -20,7 +20,7 @@ async function main() {
     // 2. Create User
     const [user] = await db.insert(users).values({
         name: "Ramon Corretor",
-        email: "ramon.testedevin@gmail.com", // You can change this to your testing email
+        email: "ramonsl@gmail.com", // Must match Resend account email for testing
         tenantId: tenant.id,
         role: "admin"
     }).returning()
